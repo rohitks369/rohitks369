@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Rohit Kumar Singh</h1>
 - 👋 Hi, I’m @rohitks369
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Java, Springboot, Hibernate & MySQL
