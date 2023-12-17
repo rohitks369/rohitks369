@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Singh</h1>
-<img align="center" src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"/>
+<img align="center" src="[https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png](https://github.com/rohitks369/rohitks369/blob/main/cover-thompson.png)"/>
+
 - 👋 Hi, I’m @rohitks369
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Java, Springboot, Hibernate & MySQL
