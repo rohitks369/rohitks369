@@ -1,10 +1,11 @@
-<div align="center">
-  <img height="200" src="https://github.com/rohitks369/rohitks369/blob/main/cover-thompson.png"  />
-</div>
+
+<h1 align="center">hey there 👋</h1>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<div align="center">
+  <img height="400" src="https://github.com/rohitks369/rohitks369/blob/main/cover-thompson.png"  />
+</div>
 
 ###
 
