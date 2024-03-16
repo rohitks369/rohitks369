@@ -89,7 +89,7 @@
 </div>
 
 ###
-
+<h3 align="left>💻  Contributions</h3>
 <img src="https://raw.githubusercontent.com/rohitks369/rohitks369/output/snake.svg" alt="Snake animation" />
 
 ###
