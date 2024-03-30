@@ -90,12 +90,15 @@
 
 ###
 
-<h3 align="left"> My Leetcode Stats</h3>
+<h3 align="left"> My Leetcode Stats : </h3>
 
 ###
 
+<div align="center">
 <!--![](https://leetcard.jacoblin.cool/rohitkumarsingh369?theme=unicorn&ext=heatmap)-->
-![](https://leetcard.jacoblin.cool/rohitkumarsingh369?ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/rohitkumarsingh369?ext=heatmap" />
+
+</div>
 
 ####
 <h3 align="left">💻  Contributions</h3>
