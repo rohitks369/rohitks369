@@ -4,7 +4,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋 </h1>
+
+###
+
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 ###
 
@@ -18,7 +22,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Rohit Kumar Singh from India<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Java, Springboot, MySQL & JavaScript<br>- ⚡ In my free time I Love making new project</p>
 
 ###
 
